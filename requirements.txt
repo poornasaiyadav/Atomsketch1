@@ -1,0 +1,5 @@
+
+git add requirements.txt
+git add smile.py
+git commit -m "Added requirements.txt for RDKit dependency"
+git push
